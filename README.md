@@ -4,6 +4,9 @@
 * 👯 I’m looking forward to working as an Android Developer(Remote).
 * 🔭 Checkout some of my projects here ==> [Portfolio](https://eebhomenye.wixsite.com/portfolio)
 * 📫 How to reach me: [Twitter](https://twitter.com/noObject01),  [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel-b32191187/)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!--
 **EbhomenyeEmmanuel/EbhomenyeEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

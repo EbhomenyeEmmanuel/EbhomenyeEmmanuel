@@ -1,7 +1,6 @@
 ### Hi there, I'm Ebhomenye Emmanuel 👋
 
-* 🌱 I’m currently learning Android Development.
-* 👯 I’m looking forward to working as an Android Developer(Remote).
+* 🌱 I’m an android developer that's currently learning flutter.
 * 🔭 Checkout some of my projects here ==> [Portfolio](https://eebhomenye.wixsite.com/portfolio)
 * 📫 How to reach me: [Twitter](https://twitter.com/noObject01),  [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel-b32191187/)
 

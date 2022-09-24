@@ -1,8 +1,8 @@
 ### Hi there, I'm Ebhomenye Emmanuel 👋
 
-* 🌱 I’m an android developer that's currently learning flutter.
+* 🌱 I’m a mobile app developer :)
 * 🔭 Checkout some of my projects here ==> [Portfolio](https://eebhomenye.wixsite.com/portfolio)
-* 📫 How to reach me: [Twitter](https://twitter.com/noObject01),  [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel-b32191187/)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel/),[Twitter](https://twitter.com/noObject01) 
 
 ![Visitor Count](https://profile-counter.glitch.me/EbhomenyeEmmanuel/count.svg)
 

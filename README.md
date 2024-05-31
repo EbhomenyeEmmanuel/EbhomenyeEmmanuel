@@ -1,8 +1,8 @@
 ### Hi there, I'm Ebhomenye Emmanuel 👋
 
 * 🌱 I’m a mobile app developer :)
-* 🔭 Checkout some of my articles here ==> [Portfolio]([https://eebhomenye.wixsite.com/portfolio](https://medium.com/@eebhomenye))
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel/),[Twitter](https://twitter.com/noObject01) 
+* 🔭 Checkout some of my articles here ==> [Articles](https://medium.com/@eebhomenye)
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel/), [Twitter](https://twitter.com/noObject01) 
 
 ![Visitor Count](https://profile-counter.glitch.me/EbhomenyeEmmanuel/count.svg)
 

@@ -1,10 +1,10 @@
 ### Hi there, I'm Ebhomenye Emmanuel 👋
 
-* 🌱 I’m a mobile app developer :)
-* 🔭 Checkout some of my articles here ==> [Articles](https://medium.com/@eebhomenye)
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel/), [Twitter](https://twitter.com/noObject01) 
+* 🌱 I’m a mobile app engineer (Native Android & Flutter).
+* 🌱 I’m currently learning [SpringBoot](https://github.com/EbhomenyeEmmanuel/firstapp).
+* 🔭 Checkout some of my articles [here](https://medium.com/@eebhomenye).
+* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebhomenye-emmanuel/). 
 
-![Visitor Count](https://profile-counter.glitch.me/EbhomenyeEmmanuel/count.svg)
 
 <!--
 **EbhomenyeEmmanuel/EbhomenyeEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
